@@ -360,6 +360,7 @@ Name | Description | Language | Author
 [Raven’s Jig](https://www.ravensjig.com/) | We specialize in musical arranges which, we hope, would do justice to the original composers we admire and look up to. | 🎶, 🇫🇷, 🇬🇧 | [redtails](https://www.youtube.com/@redtails/)
 [Releska](https://releska.com) | Arranger. Clarinet player. Translator since 2014. | 🎶, 🇬🇧 | [@Releska](https://x.com/Releska)
 [THB Doujin List](https://thwiki.cc/同人社团列表) | List of Doujin circles/groups, categorized by region, year and type of work. | 🇨🇳 | [About Page](https://thwiki.cc/THBWiki:%E5%85%B3%E4%BA%8E), Creative Commons
+[Touhou - A Scientific Interpretation](https://www.docdroid.net/uVM1meh/touhou-a-scientific-interpretation-pdf) | Explore the world of Gensokyo, through the proposed physical conditions and calculations. | 🇬🇧 | Dylan Walsh
 [Touhou Wiki's Doujin Circles](https://en.touhouwiki.net/wiki/Doujin_circles) | This is a list of all of the doujin circles on our wiki. | Multilingual | [About Page](https://en.touhouwiki.net/wiki/Touhou_Wiki:About), Creative Commons 
 
 ### Critical Analysis
