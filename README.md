@@ -1,8 +1,7 @@
 # Awesome Touhou [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 ![pepi_touhou](https://github.com/Raxelgrande/awesome-touhou/assets/93939943/a8ad9fe7-0eff-44bc-ac5f-3dc0dff58821)
 
-#### Logo Made by [Soph](https://bsky.app/profile/ningyousaiban.bsky.social)
-
+**Logo Made by [Soph](https://bsky.app/profile/ningyousaiban.bsky.social)**
 
 This is a community driven list of everything valuable and interesting in the Touhou Community.
 
@@ -30,6 +29,8 @@ We ask that in your contributions, specifically pull requests, you edit `README.
 It is also important that in your pull request you follow the correct markdown format. Follow the alphabetical order when adding new things and give some reasoning behind why adding XYZ to the list is a good idea in your issue/pull request.
 
 You can also give ideas for the project and everything that can improve it is welcome. If you don't know how to work with Github's version control and contributing system (Git), see this detailed [Guide](https://docs.github.com/pull-requests) made by Github.
+
+**awesome-touhou needs your help! If you are proficient in a language that is not English or Spanish, please check out potential-additions.md. We need someone who can verify the quality of links in languages that we don't know!**
 
 **About forum.md**
 
@@ -360,12 +361,10 @@ Name | Description | Language | Author
 [Raven’s Jig](https://www.ravensjig.com/) | We specialize in musical arranges which, we hope, would do justice to the original composers we admire and look up to. | 🎶, 🇫🇷, 🇬🇧 | [redtails](https://www.youtube.com/@redtails/)
 [Releska](https://releska.com) | Arranger. Clarinet player. Translator since 2014. | 🎶, 🇬🇧 | [@Releska](https://x.com/Releska)
 [THB Doujin List](https://thwiki.cc/同人社团列表) | List of Doujin circles/groups, categorized by region, year and type of work. | 🇨🇳 | [About Page](https://thwiki.cc/THBWiki:%E5%85%B3%E4%BA%8E), Creative Commons
-[Touhou - A Scientific Interpretation](https://www.docdroid.net/uVM1meh/touhou-a-scientific-interpretation-pdf) | Explore the world of Gensokyo, through the proposed physical conditions and calculations. | 🇬🇧 | Dylan Walsh
 [Touhou Wiki's Doujin Circles](https://en.touhouwiki.net/wiki/Doujin_circles) | This is a list of all of the doujin circles on our wiki. | Multilingual | [About Page](https://en.touhouwiki.net/wiki/Touhou_Wiki:About), Creative Commons 
 
 ### Critical Analysis
 *Go back to [Information](#information)*
-
 
 *Disecting Touhou Project in depth.*
 
@@ -378,6 +377,7 @@ Name | Description | Language | Author
 [Flowchart/Timeline of Touhou 17.5](https://www.reddit.com/r/touhou/comments/qjdemk/made_a_flowcharttimeline_of_the_battles_in_175/hiqo1xr/) | A flowchart of character movements in Touhou 17.5. Created before the addition of Yuuma as a playable character. [The final flowchart can be found here.](https://imgur.com/a/nXukDFb) | 🇬🇧 | [HinikuHou](https://www.reddit.com/user/HinikuHou)
 [Rec98 Blog](https://rec98.nmlgc.net/blog) | In depth blog about the decompilation efforts of PC98 Touhou games. | 🇬🇧 | [Nmlgc](https://github.com/nmlgc)
 [Reflections on the death of Touhou PC-98: Ultimate Collection and general rambling about Touhou Project](http://lainnet.arcesia.net/blog/2024_09_23_n01.html) | Blog post that rambles about copyright in Touhou Project and multiple parties affected by it | 🇬🇧 | [spaztron64](http://lainnet.arcesia.net/index.html)
+[Touhou - A Scientific Interpretation](https://www.docdroid.net/uVM1meh/touhou-a-scientific-interpretation-pdf) | Explore the world of Gensokyo, through the proposed physical conditions and calculations. | 🇬🇧 | [Dylan Walsh](https://www.youtube.com/@WorldsOfWalsh)
 [Touhou Character Discussions](https://www.touhou-project.com/gensokyo/res/17154.html) | A THP thread on the characteristics of the Touhou character and the generation of story ideas based off the Touhou character. | 🇬🇧 | Touhou-Project.com
 [Which is the larger of the two otherworlds in Touhou cosmology, Sanzu River or the Dream World?](https://www.reddit.com/r/touhou/comments/1axtqbu/which_is_the_larger_of_the_two_otherworlds_in/) | Comparison is done by using sourced details on the Sanzu River and the Dream World | 🇬🇧 | [Negative_Highway7506](https://www.reddit.com/user/Negative_Highway7506)
 [『幽霊楽団』はなぜピアノから始まるのか？ ～ 幽霊楽団とプリズムリバー三姉妹の音楽的解釈](https://note.com/yuki_02010/n/nc766fe2e4128#d1fe8c7e-fd41-4b20-bf07-a7777e6fd16b) | Analysis of the song *Ghostly Band ~ Phantom Ensemble* based on upon instrument organization and the individual personalities of the Prismrivers. This analysis was formed as part of the development behind the album *[プリズムリバー三姉妹のソロ!](https://www.youtube.com/watch?v=50HLMUWAdaw)*. | 🇯🇵 | [白鷺ゆっきー](https://note.com/yuki_02010/)
