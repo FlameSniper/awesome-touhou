@@ -414,6 +414,7 @@ Name | Description | Language | Author
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
 [ANGELTYPE](https://angeltype.under.jp) | Website of the original creator of the Fumos (not Gift). | 🇯🇵 | [ANGELTYPE](https://angeltype.under.jp)
+[Bluesky Fumo](https://bsky.app/profile/lunardial.nexus/feed/aaabgfudzstde) | Bluesky sister feed of GensouSky, dedicated exclusively to Fumo. | Multilingual | [˚☽‧⁺˖⋆ phosphophyllite 𓍊‧𓋼₊](https://bsky.app/profile/lunardial.nexus)
 [FumoFumo](https://en.touhouwiki.net/wiki/FumoFumo) | Touhou Wiki's page on Fumos. | Multilingual | [About Page](https://en.touhouwiki.net/wiki/Touhou_Wiki:About), Creative Commons
 [Gift Gift](https://www.gift-gift.jp/) | Website of the makers of the Fumo, Gift. | 🇯🇵 | [Gift Gift](https://www.gift-gift.jp/)
 
