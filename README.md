@@ -84,6 +84,7 @@ Thanks to all the [Contributors](https://github.com/Raxelgrande/awesome-touhou/g
     - [Forums](#forums)
     - [Real Life Events](#real-life-events)
   - #### [Software](#software)
+    - [Decompilation](#decompilation)
     - [Fun Software](#fun-software)
     - [Games](#games)
     - [Modding](#modding)
@@ -332,6 +333,16 @@ Name | Description | Language | Author
 ---- | ----------- | -------- | ------
 [Paperzone Touhou](https://paperzonevn.com/touhou.f75/) | Touhou papercrafts resource. | 🇬🇧 | PaperzoneVN
 
+### Decompilation
+*Go back to [Software](#software)*
+
+*For researching how Touhou's source code works*
+
+Name | Description | Language | Author 
+---- | ----------- | -------- | ------
+[ReC98](https://rec98.nmlgc.net/) | Source code reconstruction, mods, and technical research of and surrounding PC-98 Touhou and Seihou | 🇬🇧 | [Nmlgc](https://github.com/nmlgc)
+[th06](https://github.com/happyhavoc/th06) | This project aims to perfectly reconstruct the source code of Touhou Koumakyou ~ the Embodiment of Scarlet Devil 1.02h by Team Shanghai Alice. | 🇬🇧 | [Happy Havoc](https://github.com/happyhavoc)
+
 ### Doujin Circles
 *Go back to [Arts And Crafts](#arts-and-crafts)*
 
@@ -363,7 +374,8 @@ Name | Description | Language | Author
 [Analysing WBaWC and Idolatrize World](https://www.reddit.com/r/touhou/comments/p6xk4f/analysing_wbawc_and_idolatrize_world/) | Analysis of the themes in Wily Beast and Weakest Creature (Touhou 17) | 🇬🇧 | [CatointheMiddle](https://www.reddit.com/user/CatointheMiddle/)
 [Archive of the Sealed Gods](https://archive-of-the-sealed-gods.neocities.org/) | A website that explores and documents the esoteric in Touhou Project in connection to spirituality. | 🇬🇧 | Emissary of the Kami
 [Dialogue data mining](https://www.reddit.com/r/touhou/comments/omq48u/dialogue_data_mining/) | Word usage data analysis based on [Touhou Wiki's English translations found under the repo TouhouWikiPages](https://github.com/DestructionCatalyst/TouhouWikiPages) | 🇬🇧 | [DestructionCatalyst](https://www.reddit.com/user/DestructionCatalyst)
-[Flowchart/Timeline of Touhou 17.5](https://www.reddit.com/r/touhou/comments/qjdemk/made_a_flowcharttimeline_of_the_battles_in_175/hiqo1xr/) | A flowchart of character movements in Touhou 17.5. Created before the addition of Yuuma as a playable character. [The final flowchart can be found here](https://imgur.com/a/nXukDFb). | 🇬🇧 | [HinikuHou](https://www.reddit.com/user/HinikuHou)
+[Flowchart/Timeline of Touhou 17.5](https://www.reddit.com/r/touhou/comments/qjdemk/made_a_flowcharttimeline_of_the_battles_in_175/hiqo1xr/) | A flowchart of character movements in Touhou 17.5. Created before the addition of Yuuma as a playable character. [The final flowchart can be found here.](https://imgur.com/a/nXukDFb) | 🇬🇧 | [HinikuHou](https://www.reddit.com/user/HinikuHou)
+[Rec98 Blog](https://rec98.nmlgc.net/blog) | In depth blog about the decompilation efforts of PC98 Touhou games. | 🇬🇧 | [Nmlgc](https://github.com/nmlgc)
 [Reflections on the death of Touhou PC-98: Ultimate Collection and general rambling about Touhou Project](http://lainnet.arcesia.net/blog/2024_09_23_n01.html) | Blog post that rambles about copyright in Touhou Project and multiple parties affected by it | 🇬🇧 | [spaztron64](http://lainnet.arcesia.net/index.html)
 [Touhou Character Discussions](https://www.touhou-project.com/gensokyo/res/17154.html) | A THP thread on the characteristics of the Touhou character and the generation of story ideas based off the Touhou character. | 🇬🇧 | Touhou-Project.com
 [Which is the larger of the two otherworlds in Touhou cosmology, Sanzu River or the Dream World?](https://www.reddit.com/r/touhou/comments/1axtqbu/which_is_the_larger_of_the_two_otherworlds_in/) | Comparison is done by using sourced details on the Sanzu River and the Dream World | 🇬🇧 | [Negative_Highway7506](https://www.reddit.com/user/Negative_Highway7506)
@@ -536,7 +548,6 @@ Name | Description | Language | Author
 [106 Touhou Posters](https://beacetina.com/106-touhou-posters) | After almost full 3 years of work, this personal project of mine is finally complete. It consists of minimally illustrated poster renditions of 106 characters from the video game series Touhou Project. | 🇬🇧 | [Bea cetina](https://beacetina.com/about)
 [Circle-Goka](http://circle-goka.blog.jp/) | A doujin circle that publishes doujinshi on Touhou networking and doujin economics. They also run the [Touhou Event Statistics Committee](https://touhou-evt-stat.blog.jp/archives/10560571.html), compiling statistics on Touhou events. | 🇯🇵, Certain parts are English | [@ci_goka](https://x.com/ci_goka)
 [GensouSky Bluesky](https://bsky.app/profile/lunardial.nexus/feed/aaah44h2osv4k) | Most prominent Touhou space in Bluesky social media. Any and all touhou-related content by chronological order. | Multilingual | [˚☽‧⁺˖⋆ phosphophyllite 𓍊‧𓋼₊](https://bsky.app/profile/lunardial.nexus)
-[ReC98](https://rec98.nmlgc.net/) | Source code reconstruction, mods, and technical research of and surrounding PC-98 Touhou and Seihou | 🇬🇧 | [Nmlgc](https://github.com/nmlgc)
 [Touhou lost media](https://moriyashrine.org/forums/topic/2428-touhou-lost-media/) | The goal of this topic is collecting information about lost media and links in one place. There are some categories for systematization. In each category the media goes from more well-known or having more chances to be found to more obscure. If you have some info about this lost media or some other lost media, post it. | 🇬🇧 | [vanyk](https://moriyashrine.org/profile/38795-vanyk/)
 [World,Touhou](https://www.bilibili.com/read/readlist/rl147496) | Covers overseas Touhou communities by looking at various aspects of the community's culture. [Some articles have english translations](https://panzerabwehrkanone.wordpress.com/). | 🇨🇳 | [Pak长](https://www.facebook.com/profile.php?id=100004353407020)
 
