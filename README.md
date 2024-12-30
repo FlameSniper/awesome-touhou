@@ -87,6 +87,7 @@ Thanks to all the [Contributors](https://github.com/Raxelgrande/awesome-touhou/g
   - #### [Software](#software)
     - [Decompilation](#decompilation)
     - [Fun Software](#fun-software)
+    - [Game Assets](#game-assets)
     - [Games](#games)
     - [Modding](#modding)
     - [Sound](#sound)
@@ -438,6 +439,14 @@ Name | Description | Language | Author
 [Wriggle Nightbug](https://wrigglenightbug.com/) | Wriggle Nightbug | Wriggle Nightbug | [Wriggle Nightbug](https://bsky.app/profile/wrigglenightbug.com)
 [Yukkuri Talk](https://yukkuritalk.com) | ゆっくりしていってね！！！| 🇬🇧 | [@kdingo](https://twitter.com/kdingo)
 [Zun Art](https://zunart.shinten.moe/) | Guess the face of the Touhou character! | 🇬🇧 🇯🇵 | [Zun Art](https://zunart.shinten.moe/)
+
+### Game Assets
+*Go back to [Software](#software)*
+
+*All kinds of game assets that are based (in some way or another) on the Touhou Project series.*
+Name | Description | Language | Author 
+---- | ----------- | -------- | ------
+[The Spriter's Resource](https://www.spriters-resource.com/search/?q=touhou) | Sprites found both in official Touhou games and in fangames. For archival/learning proposes.| 🇬🇧 | [The VG Resource](https://www.spriters-resource.com/contact/)
 
 ### Games
 *Go back to [Software](#software)*
