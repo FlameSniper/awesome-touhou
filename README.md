@@ -72,6 +72,7 @@ Thanks to all the [Contributors](https://github.com/Raxelgrande/awesome-touhou/g
    - #### [Gaming Communities](#gaming-communities)
      - [Competitive Danmaku Replays And Scoring](#competitive-danmaku-replays-and-scoring)
      - [Competitive Fighting Games](#competitive-fighting-games)
+     - [General Gaming Communities](#general-gaming-communities)
    - #### [Merchandising](#merchandising)
        - [Shops](#shops)
    - #### [Miscellaneous Things](#miscellaneous-things)
@@ -320,7 +321,7 @@ Name | Description | Language | Author
 [Touhou World Records](https://maribelhearn.com/wr) | An accurate list of Touhou world records, updated every so often. | Multilingual | maribelhearn@disroot.org
 
 ### Competitive Fighting Games
-Go back to [Gaming Communities](#gaming-communities)
+*Go back to [Gaming Communities](#gaming-communities)*
 
 *Live or let die! Find matches and training resources for Touhou fighting games here.*
 
@@ -517,6 +518,15 @@ Name | Description | Language | Author
 [Touhou Replay Showcase Twitch](https://www.twitch.tv/touhou_replay_showcase) | Watching replays of Touhou while offering commentary | 🇬🇧 | [Touhou Replay Showcase](https://x.com/thrpyshowcase)
 [Touhou Replay Showcase VODs](https://www.youtube.com/channel/UCYhGnYunYon3etuttwPw3cQ/videos) | Watching replays of Touhou while offering commentary | 🇬🇧 | [Touhou Replay Showcase](https://x.com/thrpyshowcase)
 [yeashie](https://www.youtube.com/@yeashie) |  Shmups, Fangames, Danmakufu, and random garbage I find on the Internet. | 🇬🇧 | [yeashie](https://yeashie-info.straw.page/)
+
+### General Gaming Communities
+*Go back to [Gaming Communities](#gaming-communities)*
+
+*Find people to play with!*
+
+Name | Description | Language | Author 
+---- | ----------- | -------- | ------
+[Yukkuricraft](https://yukkuricraft.net/) | The largest english Touhou Minecraft server. | 🇬🇧 | [Yukkuricraft](https://linktr.ee/yukkuricraft)
 
 ### Image Boards
 *Go back to [Arts And Crafts](#arts-and-crafts)*
