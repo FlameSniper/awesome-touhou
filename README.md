@@ -210,15 +210,15 @@ Name | Description | Language | Author
 [Illusionary Score](http://illusionaryscore.web.fc2.com/) | An archive of piano arrangement scores. | 🇬🇧 | [@kkcwkoh](https://x.com/kkcwkoh)
 [IonicFox](https://www.youtube.com/@IonicFox) | Video travel archive of conventions featuring Touhou. | 🇬🇧 | [IonicFox](https://www.youtube.com/@IonicFox)
 [Maidens of the Kaleidoscope Timeline](https://www.shrinemaiden.org/forum/index.php?topic=8592.0) | It's a long and storied history for a website - a history that ought to be told. | 🇬🇧 | [Credits](https://www.shrinemaiden.com/index.php?action=credits)
-[Moriya Shrine Forums](https://moriyashrine.org/forums/) | Let's discuss Touhou Project together! | 🇬🇧 | Moriya Shrine
 [NitorInc](https://github.com/NitorInc/NitoriWare) | Fan-made, community-driven collaboration to create a collection of microgames based on the Touhou universe and lore. | 🇬🇧 | [Contributors](https://github.com/NitorInc/NitoriWare/graphs/contributors)
+[Redditaisai](https://redditaisai.com/#/) | An online Touhou doujin convention on /r/Touhou that brought together western Touhou fandom creators. It ran on [2016](https://www.reddit.com/r/touhou/comments/4sqrsw/redditaisai_2016/), [2017](https://www.reddit.com/r/touhou/comments/6q7iod/redditaisai_2017/), [2018](https://www.reddit.com/r/touhou/comments/91vtdl/redditaisai_2018/), and [2019](https://www.reddit.com/r/touhou/comments/ci9pax/redditaisai_2019/). | 🇬🇧 | [/r/Touhou](https://www.reddit.com/r/touhou/comments/3s2nju/rtouhous_hakurei_shrine_festival_super_advance/)
 [TouHorology Website](https://www.touhorology.com) | Based out of Sheboygan, Wisconsin, TouHorology creates physical good Touhou Project fan works. Link to archived website.| 🇬🇧 | [TouHorology](https://x.com/TouHorology)
 [Touhou Project ft. GS System (Canceled)](https://www.kickstarter.com/projects/18592227/touhou-project-ft-gs-system/posts/837866) | A Touhou card game in English. The reason for cancellation was that crowdfunding was not considered an appropriate monetization method under the Touhou derivative work guidelines at the time. | 🇬🇧 | [GS System](https://www.facebook.com/profile.php?id=100067759894610)
 [Touhou Station Game Jam 2020 Game Collection](https://itch.io/c/1111458/touhou-station-game-jam-2020-game-collection) | itch.io collection of the 2020 Touhou Station Game Jam. | 🇬🇧 | [Touhou Garakutasoushi](https://touhougarakuta.com)
 [Touhou Station Game Jam 2021 Game Collection](https://itch.io/c/1790744/touhou-station-game-jam-2021-game-collection) | itch.io collection of the 2021 Touhou Station Game Jam. | 🇬🇧 | [Touhou Garakutasoushi](https://touhougarakuta.com)
 [Touhou Station Game Jam 2022 Game Collection](https://itch.io/c/3289718/touhou-station-game-jam-2022-game-collection) | itch.io collection of the 2022 Touhou Station Game Jam. | 🇬🇧 | [Touhou Garakutasoushi](https://touhougarakuta.com)
 [Touhou Station Game Jam 2024 Game Collection](https://itch.io/c/4989697/touhou-station-game-jam-2024-game-collection) | itch.io collection of the 2024 Touhou Station Game Jam. | 🇬🇧 | [Touhou Garakutasoushi](https://touhougarakuta.com)
-[Redditaisai](https://redditaisai.com/#/) | An online Touhou doujin convention on /r/Touhou that brought together western Touhou fandom creators. It ran on [2016](https://www.reddit.com/r/touhou/comments/4sqrsw/redditaisai_2016/), [2017](https://www.reddit.com/r/touhou/comments/6q7iod/redditaisai_2017/), [2018](https://www.reddit.com/r/touhou/comments/91vtdl/redditaisai_2018/), and [2019](https://www.reddit.com/r/touhou/comments/ci9pax/redditaisai_2019/). | 🇬🇧 | [/r/Touhou](https://www.reddit.com/r/touhou/comments/3s2nju/rtouhous_hakurei_shrine_festival_super_advance/)
+[Touhou lost media](https://moriyashrine.org/forums/topic/2428-touhou-lost-media/) | The goal of this topic is collecting information about lost media and links in one place. There are some categories for systematization. In each category the media goes from more well-known or having more chances to be found to more obscure. If you have some info about this lost media or some other lost media, post it. | 🇬🇧 | [vanyk](https://moriyashrine.org/profile/38795-vanyk/)
 [Walfas](https://walfas.org/) | A Touhou blog whose flash content created the origin for Walfas. | 🇬🇧 | [KirbyM/@Walfie](https://x.com/walfieee)
 
 ### Ascii
@@ -405,6 +405,7 @@ Name | Description | Language | Author
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
 [Maidens of the Kaleidoscope](https://www.shrinemaiden.com/) | Third incarnation of the MotK Forums. | 🇬🇧 | [Credits](https://www.shrinemaiden.com/index.php?action=credits)
+[Moriya Shrine Forums](https://moriyashrine.org/forums/) | Let's discuss Touhou Project together! | 🇬🇧 | Moriya Shrine
 [GensoukyouDE](https://gensoukyou.de) | Jenseits der Hakurei-Barriere. | 🇩🇪 | [GensoukyouDE](https://gensoukyou.de)
 [Touhou.fi](https://touhou.fi/) | Finnish. | 🇫🇮 | [Touhou.fi](https://touhou.fi/)
 [Touhou Polish](https://www.touhou.pl) | Human Meets Danmaku. | 🇵🇱 | [Touhou Polish](https://www.touhou.pl)
@@ -584,7 +585,7 @@ Name | Description | Language | Author
 [106 Touhou Posters](https://beacetina.com/106-touhou-posters) | After almost full 3 years of work, this personal project of mine is finally complete. It consists of minimally illustrated poster renditions of 106 characters from the video game series Touhou Project. | 🇬🇧 | [Bea cetina](https://beacetina.com/about)
 [Circle-Goka](http://circle-goka.blog.jp/) | A doujin circle that publishes doujinshi on Touhou networking and doujin economics. They also run the [Touhou Event Statistics Committee](https://touhou-evt-stat.blog.jp/archives/10560571.html), compiling statistics on Touhou events. | 🇯🇵, Certain parts are English | [@ci_goka](https://x.com/ci_goka)
 [GensouSky Bluesky](https://bsky.app/profile/lunardial.nexus/feed/aaah44h2osv4k) | Most prominent Touhou space in Bluesky social media. Any and all touhou-related content by chronological order. | Multilingual | [˚☽‧⁺˖⋆ phosphophyllite 𓍊‧𓋼₊](https://bsky.app/profile/lunardial.nexus)
-[Touhou lost media](https://moriyashrine.org/forums/topic/2428-touhou-lost-media/) | The goal of this topic is collecting information about lost media and links in one place. There are some categories for systematization. In each category the media goes from more well-known or having more chances to be found to more obscure. If you have some info about this lost media or some other lost media, post it. | 🇬🇧 | [vanyk](https://moriyashrine.org/profile/38795-vanyk/)
+
 
 ### Modding & Gamedev
 *Go back to [Software](#software)*
