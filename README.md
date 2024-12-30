@@ -240,7 +240,7 @@ Name | Description | Language | Author
 ---- | ----------- | -------- | ------
 [AspreyFM](https://www.youtube.com/@AspreyFM) | I make videos on Touhou Project. Fan games or whatever idea I come up with. | 🇬🇧 | [@AspreyFM](https://twitter.com/AspreyFM)
 [Banca de Jornal Bunbunmaru](https://www.youtube.com/@BancadeJornalBunbunmaru) | tengu desgrasado | 🇧🇷 | [Banca de Jornal Bunbunmaru](https://www.youtube.com/@BancadeJornalBunbunmaru)
-[Delta Pie](https://www.youtube.com/@DeltaPie) | I talk about Touhou's impact on the Internet and popular culture, as well as cool parts of the Touhou community that make it unique. | 🇬🇧 | [Touhou Hijack LOL](https://discord.gg/TMnxvXNZQV)
+[Delta Pie](https://www.youtube.com/@DeltaPie) | I talk about Touhou's impact on the Internet and popular culture, as well as cool parts of the Touhou community that make it unique. | 🇬🇧 | [Delta Pie](https://bsky.app/profile/deltapie.bsky.social)
 [fumos and other landfill](https://www.youtube.com/@fumolandfill) | I make silly plushie videos ᗜˬᗜ | 🇬🇧 | [@fumoLandfill](https://twitter.com/fumoLandfill)
 [GensouChronicle](https://www.youtube.com/@GensouChronicle) | This is a channel focused around Media Discussion, Gaming Lore, and Video Essays. | 🇬🇧 | [@GensouChronicle](https://twitter.com/GensouChronicle)
 [Gesh86](https://www.youtube.com/@Gesh86) | Currently, Touhou-related games as well as games for classic systems dominate my channel | 🇬🇧 | [Gesh86](https://www.youtube.com/@Gesh86)
