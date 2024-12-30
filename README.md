@@ -395,6 +395,7 @@ Name | Description | Language | Author
 *Go back to [Social](#social)*
 
 *Find events to participate in!*
+
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
 [Touhou Game Jam](https://jam.touhou.dev/) | A regularly-occuring contest to make a Touhou fangame, from scratch! | 🇬🇧 | [Touhou Game Dev Hub](https://t.co/Z99PFMsevX)
@@ -460,6 +461,7 @@ Name | Description | Language | Author
 *Go back to [Software](#software)*
 
 *All kinds of game assets that are based (in some way or another) on the Touhou Project series.*
+
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
 [The Spriter's Resource](https://www.spriters-resource.com/search/?q=touhou) | Sprites found both in official Touhou games and in fangames. For archival/learning proposes.| 🇬🇧 | [The VG Resource](https://www.spriters-resource.com/contact/)
