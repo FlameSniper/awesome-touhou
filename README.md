@@ -297,6 +297,7 @@ Name | Description | Language | Author
 [Phantasmagoria Netplay Discord](https://discord.com/invite/2QPPPpE) | Welcome to the PoFV netplay server! | 🇬🇧, Multilingual | [Phantasmagoria Netplay Discord](https://discord.com/invite/2QPPPpE)
 [The Gap](https://discord.gg/2hu) | Your place to find more curated Discord servers. | 🇬🇧, Multilingual servers | [The Gap](https://discord.gg/2hu)
 [Touhou Discord](https://discord.com/invite/touhou) | The largest Touhou Project server on Discord! | 🇬🇧 | [Touhou Discord](https://discord.com/invite/touhou)
+[Touhou European Assembly Discord](https://discord.com/invite/mdjjhwdCaE) | European Touhou communities decided together to rejoin and create a common Discord server. The EU of Touhou. | Multilingual | [Touhou European Assembly](https://x.com/TouhouEurope)
 [Touhou Replay Community Discord](https://discord.com/invite/xU3utzg) | Welcome to the Touhou Replay Showcase Discord server! | 🇬🇧 | [Touhou Replay Showcase](https://x.com/thrpyshowcase)
 
 ### Competitive Danmaku Replays And Scoring
