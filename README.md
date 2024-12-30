@@ -240,6 +240,7 @@ Name | Description | Language | Author
 ---- | ----------- | -------- | ------
 [AspreyFM](https://www.youtube.com/@AspreyFM) | I make videos on Touhou Project. Fan games or whatever idea I come up with. | 🇬🇧 | [@AspreyFM](https://twitter.com/AspreyFM)
 [Banca de Jornal Bunbunmaru](https://www.youtube.com/@BancadeJornalBunbunmaru) | tengu desgrasado | 🇧🇷 | [Banca de Jornal Bunbunmaru](https://www.youtube.com/@BancadeJornalBunbunmaru)
+[Delta Pie](https://www.youtube.com/@DeltaPie) | I talk about Touhou's impact on the Internet and popular culture, as well as cool parts of the Touhou community that make it unique. | 🇬🇧 | [Touhou Hijack LOL](https://discord.gg/TMnxvXNZQV)
 [fumos and other landfill](https://www.youtube.com/@fumolandfill) | I make silly plushie videos ᗜˬᗜ | 🇬🇧 | [@fumoLandfill](https://twitter.com/fumoLandfill)
 [GensouChronicle](https://www.youtube.com/@GensouChronicle) | This is a channel focused around Media Discussion, Gaming Lore, and Video Essays. | 🇬🇧 | [@GensouChronicle](https://twitter.com/GensouChronicle)
 [Gesh86](https://www.youtube.com/@Gesh86) | Currently, Touhou-related games as well as games for classic systems dominate my channel | 🇬🇧 | [Gesh86](https://www.youtube.com/@Gesh86)
@@ -636,6 +637,7 @@ Name | Description | Language | Location | Author
 [Science Century Cafe Terrace](https://cafe-terrace.info/) | Doujin convention exclusively for Hifuu Club enjoyers| 🇯🇵 | Kyoto, 🇯🇵 | [Science Century Cafe Terrace](https://cafe-terrace.info/)
 [THB Offline Events](https://thwiki.cc/日程表) | Get information on offline events related to Touhou Project, oriented for eastern audiences. | 🇨🇳 | Multiple | [About Page](https://thwiki.cc/THBWiki:%E5%85%B3%E4%BA%8E), Creative Commons
 [TouhouFest](https://www.touhoufest.org/) | Touhou fans from across the country will gather to celebrate the coming season and enjoy all the Touhou community has to offer such as art, music, and more! | 🇺🇸 | 🇺🇸 | [TouhouFest](https://www.touhoufest.org/)
+[Touhou Hijacks in the Outside World](https://bsky.app/profile/touhouhijack.bsky.social) | An account that chronicles the incidents in which Touhou gets into unrelated places. | 🇬🇧 | [Touhou Hijack LOL](https://discord.gg/TMnxvXNZQV)
 [Touhou Kouroumu](https://koromu-toho.com/) | Doujin convention that happens bi-anually. | 🇯🇵 | 🇯🇵 | [Touhou Kouroumu](https://koromu-toho.com/)
 
 ### Scanlation
