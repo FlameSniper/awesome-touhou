@@ -357,6 +357,7 @@ Name | Description | Language | Author
 [Flowchart/Timeline of Touhou 17.5](https://www.reddit.com/r/touhou/comments/qjdemk/made_a_flowcharttimeline_of_the_battles_in_175/hiqo1xr/) | A flowchart of character movements in Touhou 17.5. Created before the addition of Yuuma as a playable character. [The final flowchart can be found here.](https://imgur.com/a/nXukDFb) | 🇬🇧 | [HinikuHou](https://www.reddit.com/user/HinikuHou)
 [Rec98 Blog](https://rec98.nmlgc.net/blog) | In depth blog about the decompilation efforts of PC98 Touhou games. | 🇬🇧 | [Nmlgc](https://github.com/nmlgc)
 [Reflections on the death of Touhou PC-98: Ultimate Collection and general rambling about Touhou Project](http://lainnet.arcesia.net/blog/2024_09_23_n01.html) | Blog post that rambles about copyright in Touhou Project and multiple parties affected by it | 🇬🇧 | [spaztron64](http://lainnet.arcesia.net/index.html)
+[The History of Touhou Doujin Sales Events](https://moriyashrine.org/forums/topic/8343-the-history-of-touhou-doujin-sales-events-2004-2024-from-the-side-of-statistics/#comment-23018) | Article about the history of Touhou Doujin, analyzed from a socioeconomical point of view. | 🇬🇧 | [vanyk](https://moriyashrine.org/profile/38795-vanyk/)
 [Touhou - A Scientific Interpretation](https://www.docdroid.net/uVM1meh/touhou-a-scientific-interpretation-pdf) | Explore the world of Gensokyo, through the proposed physical conditions and calculations. | 🇬🇧 | [Dylan Walsh](https://www.youtube.com/@WorldsOfWalsh)
 [Touhou Character Discussions](https://www.touhou-project.com/gensokyo/res/17154.html) | A THP thread on the characteristics of the Touhou character and the generation of story ideas based off the Touhou character. | 🇬🇧 | Touhou-Project.com
 [Which is the larger of the two otherworlds in Touhou cosmology, Sanzu River or the Dream World?](https://www.reddit.com/r/touhou/comments/1axtqbu/which_is_the_larger_of_the_two_otherworlds_in/) | Comparison is done by using sourced details on the Sanzu River and the Dream World | 🇬🇧 | [Negative_Highway7506](https://www.reddit.com/user/Negative_Highway7506)
@@ -405,7 +406,7 @@ Name | Description | Language | Author
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
 [Maidens of the Kaleidoscope](https://www.shrinemaiden.com/) | Third incarnation of the MotK Forums. | 🇬🇧 | [Credits](https://www.shrinemaiden.com/index.php?action=credits)
-[Moriya Shrine Forums](https://moriyashrine.org/forums/) | Let's discuss Touhou Project together! | 🇬🇧 | Moriya Shrine
+[Moriya Shrine Forums](https://moriyashrine.org/forums/) | Let's discuss Touhou Project together! | 🇬🇧 | [Moriya Shrine Staff](https://moriyashrine.org/staff/)
 [GensoukyouDE](https://gensoukyou.de) | Jenseits der Hakurei-Barriere. | 🇩🇪 | [GensoukyouDE](https://gensoukyou.de)
 [Touhou.fi](https://touhou.fi/) | Finnish. | 🇫🇮 | [Touhou.fi](https://touhou.fi/)
 [Touhou Polish](https://www.touhou.pl) | Human Meets Danmaku. | 🇵🇱 | [Touhou Polish](https://www.touhou.pl)
