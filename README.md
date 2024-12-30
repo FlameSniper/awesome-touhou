@@ -593,6 +593,7 @@ Name | Description | Language | Author
 
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
+[Bullet Hell Engines](https://discord.gg/ZGWhu7A4En) | A Discord server of the community, that focuses on creating bullet hell genre games like Touhou, but not excluding other ones. | 🇬🇧 | [Bullet Hell Engines](https://discord.gg/ZGWhu7A4En)
 [LunarCast Network](http://lunarcast.net/) | LunarCast Network hosts various projects and services such as Danmakufu Remake and the Replay Database! | 🇬🇧 | LunarCast Network
 [Survival Progress Table Generator](https://maribelhearn.com/survival) | Fill in the best survivals you have pulled off in the table below. Click 'Save' in the top left to save your progress. | 🇬🇧 | maribelhearn@disroot.org
 [Tanuki](https://github.com/spacebanana420/tanuki) | Cross-platform lightweight launcher for Touhou Project games with a TUI (Terminal User Interface) | 🇬🇧 | [SpaceBanana420](https://spacebanana.pt/)
