@@ -378,6 +378,7 @@ Name | Description | Language | Author
 
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
+[Alianza Hispana de Touhou Project](https://x.com/AlianzaTouhou) | Agrupación de comunidades, artistas y personalidades del fandom hispano de Touhou. | 🇪🇸 | [Alianza Hispana de Touhou Project](https://x.com/AlianzaTouhou)
 [Fantasy Mechanics](https://www.youtube.com/@FantasyMechanics) | Fantasy Mechanics is a Western Touhou Fanwork Circle! We primarily focus on creating fangames, but also make other projects. | 🎶, 🇬🇧 | [Fantasy Mechanics](https://www.youtube.com/@FantasyMechanics)
 [Jesselejohn](https://www.youtube.com/@Jesselejohn) | Welcome to my channel, specializing (mostly) in fanmade remixes of Touhou's PC-98 (And Seihou) music done in ZUN's style. | 🎶 | [Jesselejohn](https://www.youtube.com/@Jesselejohn)
 [Kyoto Fantasy Troupe](http://kyotofantasytroupe.net/) | We are currently producing the fan anime series "Hifuu Activity Records". | 🇯🇵, 🇬🇧, 🇨🇳 | [@fantasytroupe](https://x.com/fantasytroupe)
