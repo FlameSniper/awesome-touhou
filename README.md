@@ -91,7 +91,7 @@ Thanks to all the [Contributors](https://github.com/Raxelgrande/awesome-touhou/g
     - [Fun Software](#fun-software)
     - [Game Assets](#game-assets)
     - [Games](#games)
-    - [Modding](#modding)
+    - [Modding & Gamedev](#modding--gamedev)
     - [Sound](#sound)
   - #### [Information](#information)
     - [Critical Analysis](#critical-analysis)
@@ -586,10 +586,10 @@ Name | Description | Language | Author
 [Touhou lost media](https://moriyashrine.org/forums/topic/2428-touhou-lost-media/) | The goal of this topic is collecting information about lost media and links in one place. There are some categories for systematization. In each category the media goes from more well-known or having more chances to be found to more obscure. If you have some info about this lost media or some other lost media, post it. | 🇬🇧 | [vanyk](https://moriyashrine.org/profile/38795-vanyk/)
 [World,Touhou](https://www.bilibili.com/read/readlist/rl147496) | Covers overseas Touhou communities by looking at various aspects of the community's culture. [Some articles have english translations](https://panzerabwehrkanone.wordpress.com/). | 🇨🇳 | [Pak长](https://www.facebook.com/profile.php?id=100004353407020)
 
-### Modding
+### Modding & Gamedev
 *Go back to [Software](#software)*
 
-*Software dedicated to modifying Touhou Project games.*
+*Software dedicated to modifying or creating Touhou Project inspired games.*
 
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
