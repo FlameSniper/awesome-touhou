@@ -82,6 +82,7 @@ Thanks to all the [Contributors](https://github.com/Raxelgrande/awesome-touhou/g
     - [Blogs](#blogs)
     - [Chatrooms](#chatrooms)
     - [Doujin Circles](#doujin-circles)
+    - [Events](#events)
     - [Forums](#forums)
     - [Real Life Events](#real-life-events)
   - #### [Software](#software)
@@ -336,6 +337,25 @@ Name | Description | Language | Author
 ---- | ----------- | -------- | ------
 [Paperzone Touhou](https://paperzonevn.com/touhou.f75/) | Touhou papercrafts resource. | 🇬🇧 | PaperzoneVN
 
+### Critical Analysis
+*Go back to [Information](#information)*
+
+*Disecting Touhou Project in depth.*
+
+Name | Description | Language | Author 
+---- | ----------- | -------- | ------
+[Analysing DDC: Reversing the Ideology of Touhou](https://www.reddit.com/r/touhou/comments/wid6dk/analysing_ddc_reversing_the_ideology_of_touhou/) | Deep dive into Double Dealing Character (Touhou 14) | 🇬🇧 | [CatointheMiddle](https://www.reddit.com/user/CatointheMiddle/) 
+[Analysing WBaWC and Idolatrize World](https://www.reddit.com/r/touhou/comments/p6xk4f/analysing_wbawc_and_idolatrize_world/) | Analysis of the themes in Wily Beast and Weakest Creature (Touhou 17) | 🇬🇧 | [CatointheMiddle](https://www.reddit.com/user/CatointheMiddle/)
+[Archive of the Sealed Gods](https://archive-of-the-sealed-gods.neocities.org/) | A website that explores and documents the esoteric in Touhou Project in connection to spirituality. | 🇬🇧 | Emissary of the Kami
+[Dialogue data mining](https://www.reddit.com/r/touhou/comments/omq48u/dialogue_data_mining/) | Word usage data analysis based on [Touhou Wiki's English translations found under the repo TouhouWikiPages](https://github.com/DestructionCatalyst/TouhouWikiPages) | 🇬🇧 | [DestructionCatalyst](https://www.reddit.com/user/DestructionCatalyst)
+[Flowchart/Timeline of Touhou 17.5](https://www.reddit.com/r/touhou/comments/qjdemk/made_a_flowcharttimeline_of_the_battles_in_175/hiqo1xr/) | A flowchart of character movements in Touhou 17.5. Created before the addition of Yuuma as a playable character. [The final flowchart can be found here.](https://imgur.com/a/nXukDFb) | 🇬🇧 | [HinikuHou](https://www.reddit.com/user/HinikuHou)
+[Rec98 Blog](https://rec98.nmlgc.net/blog) | In depth blog about the decompilation efforts of PC98 Touhou games. | 🇬🇧 | [Nmlgc](https://github.com/nmlgc)
+[Reflections on the death of Touhou PC-98: Ultimate Collection and general rambling about Touhou Project](http://lainnet.arcesia.net/blog/2024_09_23_n01.html) | Blog post that rambles about copyright in Touhou Project and multiple parties affected by it | 🇬🇧 | [spaztron64](http://lainnet.arcesia.net/index.html)
+[Touhou - A Scientific Interpretation](https://www.docdroid.net/uVM1meh/touhou-a-scientific-interpretation-pdf) | Explore the world of Gensokyo, through the proposed physical conditions and calculations. | 🇬🇧 | [Dylan Walsh](https://www.youtube.com/@WorldsOfWalsh)
+[Touhou Character Discussions](https://www.touhou-project.com/gensokyo/res/17154.html) | A THP thread on the characteristics of the Touhou character and the generation of story ideas based off the Touhou character. | 🇬🇧 | Touhou-Project.com
+[Which is the larger of the two otherworlds in Touhou cosmology, Sanzu River or the Dream World?](https://www.reddit.com/r/touhou/comments/1axtqbu/which_is_the_larger_of_the_two_otherworlds_in/) | Comparison is done by using sourced details on the Sanzu River and the Dream World | 🇬🇧 | [Negative_Highway7506](https://www.reddit.com/user/Negative_Highway7506)
+[『幽霊楽団』はなぜピアノから始まるのか？ ～ 幽霊楽団とプリズムリバー三姉妹の音楽的解釈](https://note.com/yuki_02010/n/nc766fe2e4128#d1fe8c7e-fd41-4b20-bf07-a7777e6fd16b) | Analysis of the song *Ghostly Band ~ Phantom Ensemble* based on upon instrument organization and the individual personalities of the Prismrivers. This analysis was formed as part of the development behind the album *[プリズムリバー三姉妹のソロ!](https://www.youtube.com/watch?v=50HLMUWAdaw)*. | 🇯🇵 | [白鷺ゆっきー](https://note.com/yuki_02010/)
+
 ### Decompilation
 *Go back to [Software](#software)*
 
@@ -361,28 +381,16 @@ Name | Description | Language | Author
 [THB Doujin List](https://thwiki.cc/同人社团列表) | List of Doujin circles/groups, categorized by region, year and type of work. | 🇨🇳 | [About Page](https://thwiki.cc/THBWiki:%E5%85%B3%E4%BA%8E), Creative Commons
 [Touhou Wiki's Doujin Circles](https://en.touhouwiki.net/wiki/Doujin_circles) | This is a list of all of the doujin circles on our wiki. | Multilingual | [About Page](https://en.touhouwiki.net/wiki/Touhou_Wiki:About), Creative Commons 
 
-### Critical Analysis
-*Go back to [Information](#information)*
+### Events
+*Go back to [Social](#social)*
 
-*Disecting Touhou Project in depth.*
-
+*Find events to participate in!*
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
-[Analysing DDC: Reversing the Ideology of Touhou](https://www.reddit.com/r/touhou/comments/wid6dk/analysing_ddc_reversing_the_ideology_of_touhou/) | Deep dive into Double Dealing Character (Touhou 14) | 🇬🇧 | [CatointheMiddle](https://www.reddit.com/user/CatointheMiddle/) 
-[Analysing WBaWC and Idolatrize World](https://www.reddit.com/r/touhou/comments/p6xk4f/analysing_wbawc_and_idolatrize_world/) | Analysis of the themes in Wily Beast and Weakest Creature (Touhou 17) | 🇬🇧 | [CatointheMiddle](https://www.reddit.com/user/CatointheMiddle/)
-[Archive of the Sealed Gods](https://archive-of-the-sealed-gods.neocities.org/) | A website that explores and documents the esoteric in Touhou Project in connection to spirituality. | 🇬🇧 | Emissary of the Kami
-[Dialogue data mining](https://www.reddit.com/r/touhou/comments/omq48u/dialogue_data_mining/) | Word usage data analysis based on [Touhou Wiki's English translations found under the repo TouhouWikiPages](https://github.com/DestructionCatalyst/TouhouWikiPages) | 🇬🇧 | [DestructionCatalyst](https://www.reddit.com/user/DestructionCatalyst)
-[Flowchart/Timeline of Touhou 17.5](https://www.reddit.com/r/touhou/comments/qjdemk/made_a_flowcharttimeline_of_the_battles_in_175/hiqo1xr/) | A flowchart of character movements in Touhou 17.5. Created before the addition of Yuuma as a playable character. [The final flowchart can be found here.](https://imgur.com/a/nXukDFb) | 🇬🇧 | [HinikuHou](https://www.reddit.com/user/HinikuHou)
-[Rec98 Blog](https://rec98.nmlgc.net/blog) | In depth blog about the decompilation efforts of PC98 Touhou games. | 🇬🇧 | [Nmlgc](https://github.com/nmlgc)
-[Reflections on the death of Touhou PC-98: Ultimate Collection and general rambling about Touhou Project](http://lainnet.arcesia.net/blog/2024_09_23_n01.html) | Blog post that rambles about copyright in Touhou Project and multiple parties affected by it | 🇬🇧 | [spaztron64](http://lainnet.arcesia.net/index.html)
-[Touhou - A Scientific Interpretation](https://www.docdroid.net/uVM1meh/touhou-a-scientific-interpretation-pdf) | Explore the world of Gensokyo, through the proposed physical conditions and calculations. | 🇬🇧 | [Dylan Walsh](https://www.youtube.com/@WorldsOfWalsh)
-[Touhou Character Discussions](https://www.touhou-project.com/gensokyo/res/17154.html) | A THP thread on the characteristics of the Touhou character and the generation of story ideas based off the Touhou character. | 🇬🇧 | Touhou-Project.com
-[Which is the larger of the two otherworlds in Touhou cosmology, Sanzu River or the Dream World?](https://www.reddit.com/r/touhou/comments/1axtqbu/which_is_the_larger_of_the_two_otherworlds_in/) | Comparison is done by using sourced details on the Sanzu River and the Dream World | 🇬🇧 | [Negative_Highway7506](https://www.reddit.com/user/Negative_Highway7506)
-[『幽霊楽団』はなぜピアノから始まるのか？ ～ 幽霊楽団とプリズムリバー三姉妹の音楽的解釈](https://note.com/yuki_02010/n/nc766fe2e4128#d1fe8c7e-fd41-4b20-bf07-a7777e6fd16b) | Analysis of the song *Ghostly Band ~ Phantom Ensemble* based on upon instrument organization and the individual personalities of the Prismrivers. This analysis was formed as part of the development behind the album *[プリズムリバー三姉妹のソロ!](https://www.youtube.com/watch?v=50HLMUWAdaw)*. | 🇯🇵 | [白鷺ゆっきー](https://note.com/yuki_02010/)
+[Touhou Game Jam](https://jam.touhou.dev/) | A regularly-occuring contest to make a Touhou fangame, from scratch! | 🇬🇧 | [Touhou Game Dev Hub](https://t.co/Z99PFMsevX)
 
 ### Forums
 *Go back to [Social](#social)*
-
 
 *Forums to discuss things about Touhou.*
 
