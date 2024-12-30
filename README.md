@@ -38,7 +38,7 @@ You can also give ideas for the project and everything that can improve it is we
 
 The currently used command to generate reliable html versions is:
     
-    pandoc --from gfm --to html5 --standalone --no-highlight OG-FILE.md -o DESTINY-FILE
+    pandoc --from gfm --to html5 --standalone --no-highlight OG-FILE.md -o DESTINY-FILE.html
 
 ## Thanks And Contributors 
 - [Maribel Hearn's Touhou Portal](https://maribelhearn.com/)
