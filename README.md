@@ -427,6 +427,7 @@ Name | Description | Language | Author
 ---- | ----------- | -------- | ------
 [uw-u.xyz](https://uw-u.xyz) | Collection of cute software related to Momiji. | 🇬🇧 |  AWOO LLC
 [Doremy](https://doremy.ch/) | Doremy | Doremy | Doremy
+[Massive Touhou personality quiz! (70+ characters)](https://uquiz.com/quiz/HRD6Yo/massive-touhou-personality-quiz-70-characters) | This quiz is in two parts, the first one puts you in a category then links you to the second part to get a specific character! | 🇬🇧 | nintendiogs
 [My Touhou Fanpage](http://www.mytouhoupage.net/) | Web page stylized from the 2000s. | 🇬🇧 | [@Hiskov](https://x.com/Hiskov_)
 [touhou98](https://touhou98.touhou.moe/) | The font used in PC98 Touhou games. | 🇬🇧 | [touhou98](https://touhou98.touhou.moe/)
 [Touhou Calendar](https://touhoucalendar.github.io) | This page forms a (hopefully) comprehensive list of days in use, presented in English for the Touhou Project's sizable western audience. | 🇬🇧 | [@TouhouCalendar](https://twitter.com/TouhouCalendar)
