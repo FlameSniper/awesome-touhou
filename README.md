@@ -637,7 +637,7 @@ Name | Description | Language | Location | Author
 [Science Century Cafe Terrace](https://cafe-terrace.info/) | Doujin convention exclusively for Hifuu Club enjoyers| 🇯🇵 | Kyoto, 🇯🇵 | [Science Century Cafe Terrace](https://cafe-terrace.info/)
 [THB Offline Events](https://thwiki.cc/日程表) | Get information on offline events related to Touhou Project, oriented for eastern audiences. | 🇨🇳 | Multiple | [About Page](https://thwiki.cc/THBWiki:%E5%85%B3%E4%BA%8E), Creative Commons
 [TouhouFest](https://www.touhoufest.org/) | Touhou fans from across the country will gather to celebrate the coming season and enjoy all the Touhou community has to offer such as art, music, and more! | 🇺🇸 | 🇺🇸 | [TouhouFest](https://www.touhoufest.org/)
-[Touhou Hijacks in the Outside World](https://bsky.app/profile/touhouhijack.bsky.social) | An account that chronicles the incidents in which Touhou gets into unrelated places. | 🇬🇧 | [Touhou Hijack LOL](https://discord.gg/TMnxvXNZQV)
+[Touhou Hijacks in the Outside World](https://x.com/TouhouHijackLOL) | An account that chronicles the incidents in which Touhou gets into unrelated places. | 🇬🇧 | [Touhou Hijack LOL](https://discord.gg/TMnxvXNZQV)
 [Touhou Kouroumu](https://koromu-toho.com/) | Doujin convention that happens bi-anually. | 🇯🇵 | 🇯🇵 | [Touhou Kouroumu](https://koromu-toho.com/)
 
 ### Scanlation
