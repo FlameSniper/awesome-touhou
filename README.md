@@ -63,7 +63,6 @@ Thanks to all the [Contributors](https://github.com/Raxelgrande/awesome-touhou/g
        - [Audiovisual Creators](#audiovisual-creators)
        - [Ascii](#ascii)
        - [Crafts](#crafts)
-       - [Doujin Circles](#doujin-circles)
        - [Image Boards](#image-boards)
    - #### [Fumo](#fumo)
      - [Fumo Buying](#fumo-buying)
@@ -82,6 +81,7 @@ Thanks to all the [Contributors](https://github.com/Raxelgrande/awesome-touhou/g
   - #### [Social](#social)
     - [Blogs](#blogs)
     - [Chatrooms](#chatrooms)
+    - [Doujin Circles](#doujin-circles)
     - [Forums](#forums)
     - [Real Life Events](#real-life-events)
   - #### [Software](#software)
@@ -347,21 +347,17 @@ Name | Description | Language | Author
 [th06](https://github.com/happyhavoc/th06) | This project aims to perfectly reconstruct the source code of Touhou Koumakyou ~ the Embodiment of Scarlet Devil 1.02h by Team Shanghai Alice. | 🇬🇧 | [Happy Havoc](https://github.com/happyhavoc)
 
 ### Doujin Circles
-*Go back to [Arts And Crafts](#arts-and-crafts)*
+*Go back to [Social](#social)*
 
 *Your place to search things about your favorite Doujin Circles*
 
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
-[Artifex](https://www.youtube.com/@nonartifex/featured) | I am just a regular Touhou musician. | 🎶 | Remaster | [Artifex](https://nonartifex.bandcamp.com/)
 [Fantasy Mechanics](https://www.youtube.com/@FantasyMechanics) | Fantasy Mechanics is a Western Touhou Fanwork Circle! We primarily focus on creating fangames, but also make other projects. | 🎶, 🇬🇧 | [Fantasy Mechanics](https://www.youtube.com/@FantasyMechanics)
 [Jesselejohn](https://www.youtube.com/@Jesselejohn) | Welcome to my channel, specializing (mostly) in fanmade remixes of Touhou's PC-98 (And Seihou) music done in ZUN's style. | 🎶 | [Jesselejohn](https://www.youtube.com/@Jesselejohn)
-[Karl Zuñiga](https://www.youtube.com/@KarlZuniga) | I do transcriptions, arrangements, recreations, etc. (Mainly from Touhou) | 🎶, 🇲🇽, 🇬🇧 | [@KarlZuniga22](https://twitter.com/KarlZuniga22)
 [Kyoto Fantasy Troupe](http://kyotofantasytroupe.net/) | We are currently producing the fan anime series "Hifuu Activity Records". | 🇯🇵, 🇬🇧, 🇨🇳 | [@fantasytroupe](https://x.com/fantasytroupe)
-[MiragEden](https://www.youtube.com/@Ebansun) | I mainly engage in activities such as Touhou-style original compositions and Touhou arrangements. | 🎶, 🇯🇵 | [MiragEden](https://www.youtube.com/@Ebansun)
 [Paradise of Boundaries](https://twitter.com/POfBoundaries) | Comunidad y Círculo Doujin Hispano de Touhou Project. | 🇲🇽 | [Paradise of Boundaries](https://twitter.com/POfBoundaries)
 [Raven’s Jig](https://www.ravensjig.com/) | We specialize in musical arranges which, we hope, would do justice to the original composers we admire and look up to. | 🎶, 🇫🇷, 🇬🇧 | [redtails](https://www.youtube.com/@redtails/)
-[Releska](https://releska.com) | Arranger. Clarinet player. Translator since 2014. | 🎶, 🇬🇧 | [@Releska](https://x.com/Releska)
 [THB Doujin List](https://thwiki.cc/同人社团列表) | List of Doujin circles/groups, categorized by region, year and type of work. | 🇨🇳 | [About Page](https://thwiki.cc/THBWiki:%E5%85%B3%E4%BA%8E), Creative Commons
 [Touhou Wiki's Doujin Circles](https://en.touhouwiki.net/wiki/Doujin_circles) | This is a list of all of the doujin circles on our wiki. | Multilingual | [About Page](https://en.touhouwiki.net/wiki/Touhou_Wiki:About), Creative Commons 
 
