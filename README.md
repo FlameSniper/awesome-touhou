@@ -1,6 +1,6 @@
 # Awesome Touhou [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 > [!WARNING] 
-> This project is indefinitely paused due to the Touhou 20 AI situation. If you want to learn more, read this [writing](https://nautilus.nekoweb.org/en/writing/touhou-death/touhou-death) I made.
+> This project is indefinitely paused due to the Touhou 20 AI situation. If you want to learn more, read this [writing](https://nautilus.nekoweb.org/en/writing/touhou-death/touhou-death) I made about my stance in this situation.
 
 ![pepi_touhou](https://github.com/Raxelgrande/awesome-touhou/assets/93939943/a8ad9fe7-0eff-44bc-ac5f-3dc0dff58821)
 
